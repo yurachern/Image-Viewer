@@ -1,0 +1,29 @@
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\bin\Debug\WpfHomeWorkMVVM.exe.config
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\bin\Debug\WpfHomeWorkMVVM.exe
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\bin\Debug\WpfHomeWorkMVVM.pdb
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\MainWindow.g.cs
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\App.g.cs
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM_MarkupCompile.cache
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM_MarkupCompile.lref
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\MainWindow.baml
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.g.resources
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.Properties.Resources.resources
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.csproj.GenerateResource.cache
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.csproj.CoreCompileInputs.cache
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.exe
+D:\Папка Юры\Академия ШАГ\ADO NET\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.pdb
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\bin\Debug\WpfHomeWorkMVVM.exe.config
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\bin\Debug\WpfHomeWorkMVVM.exe
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\bin\Debug\WpfHomeWorkMVVM.pdb
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.csprojAssemblyReference.cache
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\MainWindow.g.cs
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\App.g.cs
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM_MarkupCompile.cache
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM_MarkupCompile.lref
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\MainWindow.baml
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.g.resources
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.Properties.Resources.resources
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.csproj.GenerateResource.cache
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.csproj.CoreCompileInputs.cache
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.exe
+D:\Папка Юры\Академия ШАГ\WPF\24.03.19\WpfHomeWorkMVVM\WpfHomeWorkMVVM\obj\Debug\WpfHomeWorkMVVM.pdb
